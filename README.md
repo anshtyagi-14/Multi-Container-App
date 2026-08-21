@@ -131,7 +131,3 @@ Deploy this architecture locally in seconds.
 
 ---
 
-<div align="center">
-  <i>"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke</i><br>
-  Built with ⚡️ by Ansh Tyagi
-</div>
